@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+<body>
+//multiply two float numbers and print output until two decimals
+</body>
+<script>
+var input1 = parseFloat(prompt("enter the number"));
+var input2 = parseFloat(prompt("enter the number"));
+var mul;
+mul = input1 * input2;
+console.log(mul.toFixed(2));
+</script>
+</html>

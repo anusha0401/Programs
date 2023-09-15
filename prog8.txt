@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+<body>
+//check if the number is even or odd
+</body>
+<script>
+ var input = parseInt(prompt("enter the number"));
+      if (input%2 == 0) {
+        console.log("it is a even number");
+      }
+      else {
+        console.log("it is a odd number");
+      }
+</script>
+</html>

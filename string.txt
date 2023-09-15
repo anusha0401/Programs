@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+<body>
+//input :
+//enter the string: Demy Solutions
+//enter the number :  10
+</body>
+<script>
+var input1 = prompt("enter the string");
+var input2 = prompt("enter the number");
+for(let i =0; i<input2; i++)
+{
+  console.log(input1);
+}
+</script>
+</html>

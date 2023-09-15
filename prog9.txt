@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+<body>
+// find the gratest number among two numbers
+</body>
+<script>
+var input1 = parseInt(prompt("enter the number"));
+  var input2 = parseInt(prompt("enter the number"));
+if( input1 > input2) {
+  console.log(`${input1} is greatest number`);
+}
+else {
+  console.log(`${input2} is greatest number`);
+}
+</script>
+</html>

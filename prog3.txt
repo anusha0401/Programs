@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+<body>
+//program to add two numbers of users inputs
+//input: frst number: 10
+//second: 20
+//output : 30
+</body>
+<script>
+var input1 = parseInt(prompt("enter the number"));
+var input2 = parseInt(prompt("enter the number"));
+var temp;
+temp = input1 + input2 ;
+console.log(temp);
+</script>
+</html>

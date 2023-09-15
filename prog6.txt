@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+<body>
+//print the ascii value of entered character
+</body>
+<script>
+var input = prompt("enter the string");
+    if(input.length > 1) {
+      console.log("enter single character ");
+    }
+ else {
+   console.log(input.charCodeAt(0));
+ }
+</script>
+</html>
